@@ -1,5 +1,3 @@
-import fileData from "../data/data.json";
-
 interface IHelpers {
   setCurrency(value: string | null): void;
   getCoefficient(): number;

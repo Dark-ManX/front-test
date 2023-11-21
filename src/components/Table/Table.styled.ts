@@ -1,5 +1,4 @@
 import styled from "@emotion/styled";
-import TableCell from "@mui/material/TableCell";
 
 export const StyledInput = styled.input`
   width: 100%;
